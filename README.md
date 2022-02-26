@@ -1,2 +1,0 @@
-# WindowsLock
-一日のPC利用時間を制限するWindowsアプリ
